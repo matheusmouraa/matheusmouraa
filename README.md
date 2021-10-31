@@ -1,5 +1,5 @@
 <h4>👋 Hi, I’m Matheus Eugênio de Moura </h4>
-<h4>🌱 I’m currently learning Python and JavaScript.</h4>
+<h4>🌱 I’m currently learning Python, JavaScript and C.</h4>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="HTML5" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
