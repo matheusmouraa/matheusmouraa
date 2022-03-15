@@ -1,8 +1,11 @@
-<h4>👋 Hi, I’m Matheus Eugênio de Moura </h4>
-<h4>🌱 I’m currently learning React Native.</h4>
+## 👋 Hi, My name is Matheus Eugênio de Moura
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="ReactNative" height="70" width="70" src="https://cdn2.iconfinder.com/data/icons/designer-skills/128/react-512.png">
-  <img align="center" alt="JavaScript" height="70" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Python" height="70" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-</div>
+## 📝 I'm 19 years old and am currently studying Bachelor of Information Technology at UFRN
+
+## 🤝 I'm looking for my first professional opportunity in front-end.
+
+### Learning:
+
+<img alt="JavaScript Icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width=40 height=40 /> <img alt="React Icon" src="https://reactnative.dev/img/header_logo.svg" width=40 height=40 />
+
+![Matheus Graph status](https://github-readme-stats.vercel.app/api?username=M4TY21&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true)
