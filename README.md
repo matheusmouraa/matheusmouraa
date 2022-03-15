@@ -1,10 +1,10 @@
-## 👋 Hi, My name is Matheus Eugênio de Moura
+### 👋 Hi, My name is Matheus Eugênio de Moura
 
-## 📝 I'm 19 years old and am currently studying Bachelor of Information Technology at UFRN
+### 📝 I'm 19 years old and am currently studying Bachelor of Information Technology at UFRN
 
-## 🤝 I'm looking for my first professional opportunity in front-end.
+### 🤝 I'm looking for my first professional opportunity in front-end.
 
-### Learning:
+### 👨🏾‍💻 Currently studying:
 
 <img alt="JavaScript Icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width=40 height=40 /> <img alt="React Icon" src="https://reactnative.dev/img/header_logo.svg" width=40 height=40 />
 
