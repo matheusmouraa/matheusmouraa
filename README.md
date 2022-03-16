@@ -6,6 +6,6 @@
 
 ### 👨🏾‍💻 Currently studying:
 
-<img alt="JavaScript Icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width=40 height=40 /> <img alt="React Icon" src="https://reactnative.dev/img/header_logo.svg" width=45 height=45 />
+<img alt="JavaScript Icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width=40 height=40 /> <img alt="React Icon" src="https://reactnative.dev/img/header_logo.svg" width=45 height=45 /> <img alt="JavaScript Icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width=40 height=40 />
 
 ![Matheus Graph status](https://github-readme-stats.vercel.app/api?username=M4TY21&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true)
