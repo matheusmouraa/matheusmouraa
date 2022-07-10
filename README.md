@@ -1,10 +1,9 @@
 ## 👋: Hi, My name is Matheus Eugênio de Moura!
 
-## 📝 I am 19 years old, front-end developer and i do faculty of information technology at UFRN, I am looking for my first job opportunity as.
+## 📝: I am 19 years old, front-end developer and i do faculty of information technology at UFRN, I am looking for my first job opportunity as.
 
 <div>
- <div align='center'>
-  <a href="https://github.com/WalterLimaViana">
+ <div align='center' row>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=M4TY21&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=M4TY21&layout=compact&langs_count=7&theme=dark"/>
 </div>
@@ -25,7 +24,7 @@
 ## 🔨: Learning
 
 <div align='center'>
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" height="40" alt="nextjs icon/>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" height="40" alt="nextjs icon/">
 </div>
 
 ## 📬: Contact
