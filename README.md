@@ -1,6 +1,8 @@
-## 👋: Hi, My name is Matheus Eugênio de Moura!
+## 👋: Hi, My name is Matheus Moura!
 
-## 📝: I am 19 years old, front-end developer and i do faculty of information technology at UFRN, I am looking for my first job opportunity as.
+## 📝: I am 19 years old, front-end developer and i do faculty of information technology at UFRN.
+
+## 💫: My hobbies are listening to music, reading and going to the beach whenever possible😅.
 
 <div>
  <div align="center">
