@@ -1,4 +1,4 @@
-## 👋: Hi, My name is Matheus Moura!
+## <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px" /> : Hi, My name is Matheus Moura!
 
 ## 📝: I am 19 years old, front-end developer and i do faculty of information technology at UFRN.
 
