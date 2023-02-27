@@ -1,6 +1,6 @@
 ## <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px" /> : Hi, My name is Matheus Moura!
 
-## 📝: I am 19 years old, front-end developer and i do faculty of information technology at UFRN.
+## 📝: I am 20 years old, front-end developer and i do faculty of information technology at UFRN.
 
 ## 💫: My hobbies are listening to music, reading and going to the beach whenever possible😅.
 
