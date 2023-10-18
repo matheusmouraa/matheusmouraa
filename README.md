@@ -7,10 +7,6 @@
 | [![GitHub Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=matheusmouraa&theme=dracula&utcOffset=-3)]() | [![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=matheusmouraa&theme=dracula)]() |  
  | ----------- | ----------- |
 
-<div align="center">
- <img src="https://github-profile-trophy.vercel.app/?username=matheusmouraa&row=1&column=6&theme=dracula&margin-w=15&margin-h=15"/>
-</div>
-
 ## 👨🏾‍💻: My Skills
 
 <div align='center'>
